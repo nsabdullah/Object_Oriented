@@ -23,7 +23,7 @@ echo $mycar->model;
 echo "<br/>";
 echo $mycar->start();
 
-// 1.  http://localhost/Object_Oriented/Day_1/
+// 1.  http://localhost/Object_Oriented/Day_1_OOP_Introduction/
 
 
 
